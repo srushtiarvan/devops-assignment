@@ -1,9 +1,7 @@
-\# DevOps Assignment
+#DevOps Assignment
 
 
-
-\## Definitions
-
+## Definitions:
 
 
 \*\*DevOps\*\*  
