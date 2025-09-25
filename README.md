@@ -82,7 +82,7 @@ Reverting an application or system to a previous stable state if something goes 
 
 
 
-5. \*\*Running the script and saving the output\*\*  
+5. **Running the script and saving the output**  
 
 &nbsp;  I executed the script using `./script.sh` and redirected its output into a new file called `script.log`. This captured the system information and script output for reference.
 
